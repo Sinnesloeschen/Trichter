@@ -1,0 +1,19 @@
+# Arduino / ESP32 Build Files
+*.ino.cpp
+*.elf
+*.bin
+*.hex
+
+# Build / Cache Folders
+build/
+cmake-build-*/
+.cache/
+.tmp/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS stuff
+.DS_Store
+Thumbs.db
